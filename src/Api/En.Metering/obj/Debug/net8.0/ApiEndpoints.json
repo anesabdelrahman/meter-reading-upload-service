@@ -1,0 +1,89 @@
+[
+  {
+    "ContainingType": "En.Metering.Controllers.MeterReadingsQueryController",
+    "Method": "GetAll",
+    "RelativePath": "api/meter-readings-queries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "En.Metering.Controllers.MeterReadingsQueryController",
+    "Method": "GetByAccount",
+    "RelativePath": "api/meter-readings-queries/{accountId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "En.Metering.Controllers.MeterReadingsQueryController",
+    "Method": "GetDailySummary",
+    "RelativePath": "api/meter-readings-queries/summary/daily",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "En.Metering.Controllers.MeterReadingsQueryController",
+    "Method": "GetTopAccounts",
+    "RelativePath": "api/meter-readings-queries/summary/top",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "En.Metering.Controllers.MeterReadingUploadsController",
+    "Method": "Upload",
+    "RelativePath": "api/meter-readings-upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ContentType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ContentDisposition",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Headers",
+        "Type": "Microsoft.AspNetCore.Http.IHeaderDictionary",
+        "IsRequired": false
+      },
+      {
+        "Name": "Length",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FileName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

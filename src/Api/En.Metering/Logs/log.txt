@@ -1,0 +1,385 @@
+2025-11-20 21:06:36.098 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:09:36.032 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.032 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.032 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.032 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.032 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.060 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.063 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.067 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.070 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.072 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.075 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.077 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.080 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.032 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.085 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.087 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.090 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.092 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.095 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.097 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.100 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.103 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.105 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.107 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.032 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.032 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.032 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.033 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.044 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.000 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.039 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.055 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.082 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.109 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:09:36.111 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:11:51.338 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:11:51.339 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:11:51.354 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:11:51.346 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:11:51.338 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:11:51.338 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:11:51.350 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:17:36.976 +00:00 [WRN] Failed to process record: Account 1235 not found
+2025-11-20 21:17:36.976 +00:00 [WRN] Failed to process record: Account 1237 not found
+2025-11-20 21:17:36.976 +00:00 [WRN] Failed to process record: Account 12349 not found
+2025-11-20 21:17:36.976 +00:00 [WRN] Failed to process record: Account 12347 not found
+2025-11-20 21:17:36.976 +00:00 [WRN] Failed to process record: Account 1236 not found
+2025-11-20 21:17:37.392 +00:00 [ERR] Failed executing DbCommand (169ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = DateTime), @p2='?' (Size = 4)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "MeterReadings" ("AccountId", "MeterReadingDateTime", "MeterReadingValue")
+VALUES (@p0, @p1, @p2)
+RETURNING "Id";
+2025-11-20 21:17:37.415 +00:00 [ERR] An exception occurred in the database while saving changes for context type 'En.Metering.Persistence.Context.MeteringDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'UNIQUE constraint failed: MeterReadings.AccountId, MeterReadings.MeterReadingDateTime'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'UNIQUE constraint failed: MeterReadings.AccountId, MeterReadings.MeterReadingDateTime'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2025-11-20 21:17:37.454 +00:00 [ERR] Error processing meter reading for account 1234
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'UNIQUE constraint failed: MeterReadings.AccountId, MeterReadings.MeterReadingDateTime'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at En.Metering.Services.Implementations.MeterReadingProcessor.ProcessRecordAsync(MeterReadingDto record, CancellationToken token) in C:\Repos\En.Candidate.Project\src\Api\En.Metering\Services\Implementations\MeterReadingProcessor.cs:line 74
+2025-11-20 21:17:37.487 +00:00 [WRN] Failed to process record: Processing error: An error occurred while saving the entity changes. See the inner exception for details.
+2025-11-20 21:19:55.655 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.655 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.655 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.655 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.681 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.683 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.685 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.688 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.690 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.692 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.695 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.698 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.700 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.703 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.705 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.708 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.710 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.713 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.716 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.718 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.720 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.723 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.725 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.728 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.655 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.655 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.669 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.656 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.655 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.656 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.665 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.673 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.680 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.730 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:19:55.733 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:20:45.955 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:20:57.405 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:20:57.404 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:05.677 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:05.685 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:08.857 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.875 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.875 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.883 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.900 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.903 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.905 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.908 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.910 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.913 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.915 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.918 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.920 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.923 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.926 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.929 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.931 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.933 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.936 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:05.671 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:20:57.481 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:20:57.408 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:20:57.480 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:20:57.481 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:05.677 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:05.692 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.877 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.897 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.937 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:09.940 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.793 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.794 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.806 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.794 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.797 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.794 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.835 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.838 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.841 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.843 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.845 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.847 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.849 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.852 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.855 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.857 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.860 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.862 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.864 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.866 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.868 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.870 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.873 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.876 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.826 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.816 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.797 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.793 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.793 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.808 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.818 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.826 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.834 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.878 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:21:43.880 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:23:05.548 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:23:05.583 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:23:05.696 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:23:05.699 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:23:05.707 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:23:05.712 +00:00 [WRN] Failed to process record: Meter reading is older than latest one!
+2025-11-20 21:23:05.715 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:23:05.724 +00:00 [WRN] Failed to process record: Account 1236 not found
+2025-11-20 21:23:05.725 +00:00 [WRN] Failed to process record: Account 1237 not found
+2025-11-20 21:23:05.728 +00:00 [WRN] Failed to process record: Account 1238 not found
+2025-11-20 21:23:05.733 +00:00 [WRN] Failed to process record: Meter reading is older than latest one!
+2025-11-20 21:23:05.883 +00:00 [WRN] Failed to process record: Account 2354 not found
+2025-11-20 21:31:35.708 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.712 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.817 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.820 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.821 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.826 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.829 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:31:35.830 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.831 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:31:35.835 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.836 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.838 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.841 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.842 +00:00 [WRN] Failed to process record: Account 2354 not found
+2025-11-20 21:31:35.845 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.847 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.848 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:31:35.849 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:31:35.853 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:31:35.853 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.857 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:31:35.860 +00:00 [WRN] Failed to process record: Account 1236 not found
+2025-11-20 21:31:35.863 +00:00 [WRN] Failed to process record: Account 1237 not found
+2025-11-20 21:31:35.866 +00:00 [WRN] Failed to process record: Account 1238 not found
+2025-11-20 21:31:35.951 +00:00 [WRN] Failed to process record: Meter reading is older than latest one!
+2025-11-20 21:31:35.951 +00:00 [WRN] Failed to process record: Meter reading is older than latest one!
+2025-11-20 21:31:35.956 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.958 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.959 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.962 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.963 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.966 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.967 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.970 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:35.972 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.910 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.914 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.915 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.919 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.920 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.921 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:31:47.925 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.927 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.928 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:31:47.932 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.934 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.935 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.937 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.939 +00:00 [WRN] Failed to process record: Account 2354 not found
+2025-11-20 21:31:47.942 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.943 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.944 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:31:47.947 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:31:47.950 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.951 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:31:47.955 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:31:47.956 +00:00 [WRN] Failed to process record: Meter reading is older than latest one!
+2025-11-20 21:31:47.958 +00:00 [WRN] Failed to process record: Account 1236 not found
+2025-11-20 21:31:47.960 +00:00 [WRN] Failed to process record: Account 1237 not found
+2025-11-20 21:31:47.963 +00:00 [WRN] Failed to process record: Account 1238 not found
+2025-11-20 21:31:47.965 +00:00 [WRN] Failed to process record: Meter reading is older than latest one!
+2025-11-20 21:31:47.966 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.969 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.971 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.973 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.976 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.977 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.981 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.983 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:31:47.984 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-20 21:45:16.166 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:45:16.214 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:45:16.260 +00:00 [WRN] Failed to process record: Account 2354 not found
+2025-11-20 21:45:16.286 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:45:16.289 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:45:16.301 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:45:16.316 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-20 21:45:16.320 +00:00 [WRN] Failed to process record: Account 1236 not found
+2025-11-20 21:45:16.323 +00:00 [WRN] Failed to process record: Account 1237 not found
+2025-11-20 21:45:16.326 +00:00 [WRN] Failed to process record: Account 1238 not found
+2025-11-20 21:45:16.444 +00:00 [ERR] An exception occurred in the database while saving changes for context type 'En.Metering.Persistence.Context.MeteringDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 5: 'database is locked'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataRecord.Dispose()
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at System.Data.Common.DbDataReader.NextResultAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 5: 'database is locked'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataRecord.Dispose()
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at System.Data.Common.DbDataReader.NextResultAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2025-11-20 21:45:16.498 +00:00 [ERR] Error processing meter reading for account 1245
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 5: 'database is locked'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataRecord.Dispose()
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at System.Data.Common.DbDataReader.NextResultAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at En.Metering.Services.Implementations.MeterReadingProcessor.ProcessRecordAsync(MeterReadingDto record, CancellationToken token) in C:\Repos\En.Candidate.Project\src\Api\En.Metering\Services\Implementations\MeterReadingProcessor.cs:line 74
+2025-11-20 21:45:16.520 +00:00 [WRN] Failed to process record: Processing error: An error occurred while saving the entity changes. See the inner exception for details.
+2025-11-22 11:45:23.766 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-22 11:45:56.062 +00:00 [WRN] Failed to process record: Account 1239478 not found
+2025-11-22 11:46:26.055 +00:00 [WRN] Failed to process record: Validation failed: Meter reading must be a 5-digit number
+2025-11-22 11:46:49.176 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-22 12:04:35.827 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-22 12:06:37.433 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-22 12:06:51.693 +00:00 [WRN] Failed to process record: Uploaded meter reading is older or smaller than the latest one.
+2025-11-22 12:07:05.046 +00:00 [WRN] Failed to process record: Uploaded meter reading is older or smaller than the latest one.
+2025-11-22 12:11:57.174 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-22 12:12:14.212 +00:00 [WRN] Failed to process record: A meter read on the same date and time already exists!
+2025-11-22 12:12:30.074 +00:00 [WRN] Failed to process record: Uploaded meter reading is older or smaller than the latest one.
+2025-11-22 12:12:44.135 +00:00 [WRN] Failed to process record: Uploaded meter reading is older or smaller than the latest one.

@@ -1,0 +1,40 @@
+@En.Metering_HostAddress = http://localhost:5297
+
+### Upload CSV (multipart/form-data)
+POST {{En.Metering_HostAddress}}/api/meter-readings-upload
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundary
+
+------WebKitFormBoundary
+Content-Disposition: form-data; name="file"; filename="test.csv"
+Content-Type: text/csv
+
+AccountId,MeterReadingDateTime,MeterReadingValue
+1239,22/04/2024 12:38,00006
+
+------WebKitFormBoundary--
+
+###
+
+### Get all meter readings
+GET {{En.Metering_HostAddress}}/api/meter-readings-queries
+Accept: application/json
+
+###
+
+### Get meter readings by account
+GET {{En.Metering_HostAddress}}/api/meter-readings-queries/1239
+Accept: application/json
+
+###
+
+### Get daily summary
+GET {{En.Metering_HostAddress}}/api/meter-readings-queries/summary/daily
+Accept: application/json
+
+###
+
+### Get top accounts by submissions
+GET {{En.Metering_HostAddress}}/api/meter-readings-queries/summary/top
+Accept: application/json
+
+###

@@ -1,0 +1,140 @@
+﻿using Ensek.Metering.Services.DTOs;
+using Ensek.Metering.Services.Interfaces;
+using Microsoft.Extensions.DependencyInjection;
+
+namespace Ensek.Metering.Services.Implementations
+{
+    public class MeterReadingUploadService : IMeterReadingUploadService
+    {
+        private readonly IMeterReadingProcessor _processor; // kept for compatibility; used when no IServiceProvider is provided
+        private readonly ICsvParserService<MeterReadingDto> _csvParser;
+        private readonly Serilog.ILogger _logger;
+        private readonly IServiceProvider? _serviceProvider;
+        private readonly int _maxDegreeOfParallelism;
+
+        public MeterReadingUploadService(
+            IMeterReadingProcessor processor,
+            ICsvParserService<MeterReadingDto> csvParser,
+            Serilog.ILogger logger,
+            IServiceProvider? serviceProvider = null,
+            int? maxDegreeOfParallelism = null)
+        {
+            _processor = processor;
+            _csvParser = csvParser;
+            _logger = logger;
+            _serviceProvider = serviceProvider;
+            _maxDegreeOfParallelism = maxDegreeOfParallelism ?? Math.Max(1, Environment.ProcessorCount);
+        }
+
+        public async Task<(int success, int failed)> ProcessCsvAsync(Stream csvStream, CancellationToken token = default)
+        {
+            int success = 0;
+            int failed = 0;
+
+            // If no service provider supplied, fall back to original sequential processing to avoid breaking behavior
+            if (_serviceProvider == null)
+            {
+                try
+                {
+                    await foreach (var record in _csvParser.ParseCsvAsync(csvStream, token))
+                    {
+                        token.ThrowIfCancellationRequested();
+
+                        try
+                        {
+                            var result = await _processor.ProcessRecordAsync(record, token);
+
+                            if (result.IsSuccess)
+                                success++;
+                            else
+                                failed++;
+
+                            if (!string.IsNullOrEmpty(result.ErrorMessage))
+                            {
+                                _logger.Warning("Failed to process record: {ErrorMessage}", result.ErrorMessage);
+                            }
+                        }
+                        catch (OperationCanceledException)
+                        {
+                            throw;
+                        }
+                        catch (Exception ex)
+                        {
+                            failed++;
+                            _logger.Warning("Exception processing record: {ErrorMessage}", ex.Message);
+                        }
+                    }
+
+                    return (success, failed);
+                }
+                catch (Exception ex) when (ex is not OperationCanceledException)
+                {
+                    _logger.Error(ex, "Error processing CSV file");
+                    throw;
+                }
+            }
+
+            // Semaphore to bound concurrency when IServiceProvider is available
+            using var throttler = new SemaphoreSlim(_maxDegreeOfParallelism);
+            var tasks = new List<Task>();
+
+            try
+            {
+                await foreach (var record in _csvParser.ParseCsvAsync(csvStream, token))
+                {
+                    token.ThrowIfCancellationRequested();
+
+                    await throttler.WaitAsync(token);
+
+                    // Start a worker task that creates its own scope so it gets its own DbContext and scoped services
+                    var task = Task.Run(async () =>
+                    {
+                        try
+                        {
+                            using var scope = _serviceProvider.CreateScope();
+                            var processor = scope.ServiceProvider.GetRequiredService<IMeterReadingProcessor>();
+
+                            var result = await processor.ProcessRecordAsync(record, token).ConfigureAwait(false);
+
+                            if (result.IsSuccess)
+                                Interlocked.Increment(ref success);
+                            else
+                                Interlocked.Increment(ref failed);
+
+                            if (!string.IsNullOrEmpty(result.ErrorMessage))
+                            {
+                                _logger.Warning("Failed to process record: {ErrorMessage}", result.ErrorMessage);
+                            }
+                        }
+                        catch (OperationCanceledException)
+                        {
+                            throw;
+                        }
+                        catch (Exception ex)
+                        {
+                            Interlocked.Increment(ref failed);
+                            _logger.Warning("Exception processing record: {ErrorMessage}", ex.Message);
+                        }
+                        finally
+                        {
+                            throttler.Release();
+                        }
+
+                    }, token);
+
+                    tasks.Add(task);
+                }
+
+                // Wait for all workers to complete
+                await Task.WhenAll(tasks);
+
+                return (success, failed);
+            }
+            catch (Exception ex) when (ex is not OperationCanceledException)
+            {
+                _logger.Error(ex, "Error processing CSV file");
+                throw;
+            }
+        }
+    }
+}

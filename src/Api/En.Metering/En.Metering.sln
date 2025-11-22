@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "En.Metering", "En.Metering.csproj", "{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeteringTests", "..\..\..\tests\Api.Tests\MeteringTests\MeteringTests.csproj", "{14FAB9B4-0B8F-480D-8BB2-C2E73B687C2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14FAB9B4-0B8F-480D-8BB2-C2E73B687C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FAB9B4-0B8F-480D-8BB2-C2E73B687C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FAB9B4-0B8F-480D-8BB2-C2E73B687C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FAB9B4-0B8F-480D-8BB2-C2E73B687C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D63F8E-0D6F-4E6E-8AE0-6D998E8973D1}
+	EndGlobalSection
+EndGlobal

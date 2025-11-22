@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\en.metering.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:en.metering.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\validation\\implementaions\\outofordermeterreadingspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:validation\\implementaions\\outofordermeterreadingspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\validation\\implementaions\\duplicatemeterreadingspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:validation\\implementaions\\duplicatemeterreadingspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\validation\\implementaions\\meterreadingvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:validation\\implementaions\\meterreadingvalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\Ensek.Candidate.Project\\tests\\Api.Tests\\MeteringTests\\MeteringTests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\services\\dtos\\meterreadingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:services\\dtos\\meterreadingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\services\\implementations\\meterreadingprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:services\\implementations\\meterreadingprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\services\\implementations\\meterreadinguploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:services\\implementations\\meterreadinguploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\adr.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:adr.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\models\\requests\\uploadmeterreadingsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:models\\requests\\uploadmeterreadingsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\validation\\implementaions\\meterreadingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:validation\\implementaions\\meterreadingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\Ensek.Candidate.Project\\tests\\Api.Tests\\MeteringTests\\Validation\\ValidationTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\controllers\\meterreadinguploadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:controllers\\meterreadinguploadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\persistence\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:persistence\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\persistence\\repositories\\imeterreadingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:persistence\\repositories\\imeterreadingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\persistence\\context\\meteringdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:persistence\\context\\meteringdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\persistence\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:persistence\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\models\\responses\\meterreadingprocessresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:models\\responses\\meterreadingprocessresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\models\\domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:models\\domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\validation\\implementaions\\andspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:validation\\implementaions\\andspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\validation\\implementaions\\uploadmeterreadingsrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:validation\\implementaions\\uploadmeterreadingsrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\validation\\implementaions\\accountvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:validation\\implementaions\\accountvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\models\\domain\\meterreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:models\\domain\\meterreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\Ensek.Candidate.Project\\tests\\Api.Tests\\MeteringTests\\Controllers\\ControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\services\\interfaces\\imeterreadingqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:services\\interfaces\\imeterreadingqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\controllers\\meterreadingsquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:controllers\\meterreadingsquerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|c:\\repos\\en.candidate.project\\src\\api\\en.metering\\services\\implementations\\meterreadingqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FC4D9E-9D0D-45F0-A230-A620BA15403C}|En.Metering.csproj|solutionrelative:services\\implementations\\meterreadingqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 293,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutOfOrderMeterReadingSpecification.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Validation\\Implementaions\\OutOfOrderMeterReadingSpecification.cs",
+              "RelativeDocumentMoniker": "Validation\\Implementaions\\OutOfOrderMeterReadingSpecification.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Validation\\Implementaions\\OutOfOrderMeterReadingSpecification.cs",
+              "RelativeToolTip": "Validation\\Implementaions\\OutOfOrderMeterReadingSpecification.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:32:05.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T17:39:32.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "En.Metering.http",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\En.Metering.http",
+              "RelativeDocumentMoniker": "En.Metering.http",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\En.Metering.http",
+              "RelativeToolTip": "En.Metering.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-20T14:32:57.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DuplicateMeterReadingSpecification.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Validation\\Implementaions\\DuplicateMeterReadingSpecification.cs",
+              "RelativeDocumentMoniker": "Validation\\Implementaions\\DuplicateMeterReadingSpecification.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Validation\\Implementaions\\DuplicateMeterReadingSpecification.cs",
+              "RelativeToolTip": "Validation\\Implementaions\\DuplicateMeterReadingSpecification.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:31:43.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MeterReadingValidationService.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Validation\\Implementaions\\MeterReadingValidationService.cs",
+              "RelativeDocumentMoniker": "Validation\\Implementaions\\MeterReadingValidationService.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Validation\\Implementaions\\MeterReadingValidationService.cs",
+              "RelativeToolTip": "Validation\\Implementaions\\MeterReadingValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:49:43.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:16:07.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MeterReadingProcessor.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Services\\Implementations\\MeterReadingProcessor.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\MeterReadingProcessor.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Services\\Implementations\\MeterReadingProcessor.cs",
+              "RelativeToolTip": "Services\\Implementations\\MeterReadingProcessor.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAApwCkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:26:12.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MeteringTests.csproj",
+              "DocumentMoniker": "C:\\Repos\\Ensek.Candidate.Project\\tests\\Api.Tests\\MeteringTests\\MeteringTests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Ensek.Candidate.Project\\tests\\Api.Tests\\MeteringTests\\MeteringTests.csproj",
+              "ToolTip": "C:\\Repos\\Ensek.Candidate.Project\\tests\\Api.Tests\\MeteringTests\\MeteringTests.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\Ensek.Candidate.Project\\tests\\Api.Tests\\MeteringTests\\MeteringTests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T11:35:34.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-20T17:55:45.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeterReadingDto.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Services\\DTOs\\MeterReadingDto.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\MeterReadingDto.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Services\\DTOs\\MeterReadingDto.cs",
+              "RelativeToolTip": "Services\\DTOs\\MeterReadingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:36:29.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MeterReadingUploadService.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Services\\Implementations\\MeterReadingUploadService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\MeterReadingUploadService.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Services\\Implementations\\MeterReadingUploadService.cs",
+              "RelativeToolTip": "Services\\Implementations\\MeterReadingUploadService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:25:29.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ADR.md",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\ADR.md",
+              "RelativeDocumentMoniker": "ADR.md",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\ADR.md",
+              "RelativeToolTip": "ADR.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-20T17:57:23.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UploadMeterReadingsRequest.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Models\\Requests\\UploadMeterReadingsRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Requests\\UploadMeterReadingsRequest.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Models\\Requests\\UploadMeterReadingsRequest.cs",
+              "RelativeToolTip": "Models\\Requests\\UploadMeterReadingsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:36:51.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MeterReadingValidator.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Validation\\Implementaions\\MeterReadingValidator.cs",
+              "RelativeDocumentMoniker": "Validation\\Implementaions\\MeterReadingValidator.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Validation\\Implementaions\\MeterReadingValidator.cs",
+              "RelativeToolTip": "Validation\\Implementaions\\MeterReadingValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAOBgwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:12:14.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ValidationTests.cs",
+              "DocumentMoniker": "C:\\Repos\\Ensek.Candidate.Project\\tests\\Api.Tests\\MeteringTests\\Validation\\ValidationTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Ensek.Candidate.Project\\tests\\Api.Tests\\MeteringTests\\Validation\\ValidationTests.cs",
+              "ToolTip": "C:\\Repos\\Ensek.Candidate.Project\\tests\\Api.Tests\\MeteringTests\\Validation\\ValidationTests.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Ensek.Candidate.Project\\tests\\Api.Tests\\MeteringTests\\Validation\\ValidationTests.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:13:44.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MeterReadingUploadsController.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Controllers\\MeterReadingUploadsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MeterReadingUploadsController.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Controllers\\MeterReadingUploadsController.cs",
+              "RelativeToolTip": "Controllers\\MeterReadingUploadsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:22:18.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Persistence\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\IAccountRepository.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Persistence\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:38:39.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IMeterReadingRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Persistence\\Repositories\\IMeterReadingRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\IMeterReadingRepository.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Persistence\\Repositories\\IMeterReadingRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\IMeterReadingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:38:57.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MeteringDbContext.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Persistence\\Context\\MeteringDbContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\Context\\MeteringDbContext.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Persistence\\Context\\MeteringDbContext.cs",
+              "RelativeToolTip": "Persistence\\Context\\MeteringDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:39:15.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Persistence\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:59:22.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MeterReadingProcessResult.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Models\\Responses\\MeterReadingProcessResult.cs",
+              "RelativeDocumentMoniker": "Models\\Responses\\MeterReadingProcessResult.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Models\\Responses\\MeterReadingProcessResult.cs",
+              "RelativeToolTip": "Models\\Responses\\MeterReadingProcessResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:37:37.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Models\\Domain\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Account.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Models\\Domain\\Account.cs",
+              "RelativeToolTip": "Models\\Domain\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:35:46.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AndSpecification.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Validation\\Implementaions\\AndSpecification.cs",
+              "RelativeDocumentMoniker": "Validation\\Implementaions\\AndSpecification.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Validation\\Implementaions\\AndSpecification.cs",
+              "RelativeToolTip": "Validation\\Implementaions\\AndSpecification.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:29:33.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UploadMeterReadingsRequestValidator.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Validation\\Implementaions\\UploadMeterReadingsRequestValidator.cs",
+              "RelativeDocumentMoniker": "Validation\\Implementaions\\UploadMeterReadingsRequestValidator.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Validation\\Implementaions\\UploadMeterReadingsRequestValidator.cs",
+              "RelativeToolTip": "Validation\\Implementaions\\UploadMeterReadingsRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:06:14.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountValidation.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Validation\\Implementaions\\AccountValidation.cs",
+              "RelativeDocumentMoniker": "Validation\\Implementaions\\AccountValidation.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Validation\\Implementaions\\AccountValidation.cs",
+              "RelativeToolTip": "Validation\\Implementaions\\AccountValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:27:48.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MeterReading.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Models\\Domain\\MeterReading.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\MeterReading.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Models\\Domain\\MeterReading.cs",
+              "RelativeToolTip": "Models\\Domain\\MeterReading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:05:24.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ControllerTests.cs",
+              "DocumentMoniker": "C:\\Repos\\Ensek.Candidate.Project\\tests\\Api.Tests\\MeteringTests\\Controllers\\ControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Ensek.Candidate.Project\\tests\\Api.Tests\\MeteringTests\\Controllers\\ControllerTests.cs",
+              "ToolTip": "C:\\Repos\\Ensek.Candidate.Project\\tests\\Api.Tests\\MeteringTests\\Controllers\\ControllerTests.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Ensek.Candidate.Project\\tests\\Api.Tests\\MeteringTests\\Controllers\\ControllerTests.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAowFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:04:25.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IMeterReadingQueryService.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Services\\Interfaces\\IMeterReadingQueryService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IMeterReadingQueryService.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Services\\Interfaces\\IMeterReadingQueryService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IMeterReadingQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:03:41.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MeterReadingsQueryController.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Controllers\\MeterReadingsQueryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MeterReadingsQueryController.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Controllers\\MeterReadingsQueryController.cs",
+              "RelativeToolTip": "Controllers\\MeterReadingsQueryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:58:23.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MeterReadingQueryService.cs",
+              "DocumentMoniker": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Services\\Implementations\\MeterReadingQueryService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\MeterReadingQueryService.cs",
+              "ToolTip": "C:\\Repos\\En.Candidate.Project\\src\\Api\\En.Metering\\Services\\Implementations\\MeterReadingQueryService.cs",
+              "RelativeToolTip": "Services\\Implementations\\MeterReadingQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:05:36.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+﻿using System;
+using System.IO;
+using System.Threading;
+using System.Threading.Tasks;
+using System.Collections.Generic;
+using BenchmarkDotNet.Attributes;
+using Microsoft.Extensions.DependencyInjection;
+using Ensek.Metering.Services.Interfaces;
+using Ensek.Metering.Services.DTOs;
+using Ensek.Metering.Services.Implementations;
+using Serilog;
+
+namespace Ensek.Metering.Benchmarks
+{
+    [CPUUsageDiagnoser]
+    public class MeterReadingUploadServiceBenchmark
+    {
+        [Params(1000)]
+        public int RecordCount { get; set; }
+
+        private IMeterReadingUploadService _sequentialService = null!;
+        private IMeterReadingUploadService _concurrentService = null!;
+        private Stream _dummyStream = Stream.Null;
+
+        [GlobalSetup]
+        public void Setup()
+        {
+            // Simple logger (uses Serilog's static logger if configured, otherwise a no-op)
+            var logger = Log.Logger;
+
+            // Fake csv parser that yields RecordCount records
+            var csvParser = new FakeCsvParserService(RecordCount);
+
+            // Fake processor used for sequential path
+            var fakeProcessor = new FakeMeterReadingProcessor(1);
+
+            _sequentialService = new MeterReadingUploadService(fakeProcessor, csvParser, logger, serviceProvider: null);
+
+            // Build a service provider that resolves IMeterReadingProcessor as a scoped fake implementation for concurrent path
+            var services = new ServiceCollection();
+            services.AddScoped<IMeterReadingProcessor, FakeMeterReadingProcessor>(_ => new FakeMeterReadingProcessor(1));
+            var serviceProvider = services.BuildServiceProvider();
+
+            // For concurrent path we still pass a dummy processor for constructor compatibility
+            _concurrentService = new MeterReadingUploadService(fakeProcessor, csvParser, logger, serviceProvider);
+        }
+
+        [Benchmark(Baseline = true)]
+        public async Task<(int success, int failed)> SequentialProcessing()
+        {
+            return await _sequentialService.ProcessCsvAsync(_dummyStream, CancellationToken.None);
+        }
+
+        [Benchmark]
+        public async Task<(int success, int failed)> ConcurrentProcessing()
+        {
+            return await _concurrentService.ProcessCsvAsync(_dummyStream, CancellationToken.None);
+        }
+
+        // Fake CSV parser that yields a fixed number of records
+        private class FakeCsvParserService : ICsvParserService<MeterReadingDto>
+        {
+            private readonly int _count;
+            public FakeCsvParserService(int count) => _count = count;
+            public async IAsyncEnumerable<MeterReadingDto> ParseCsvAsync(Stream csvStream, [System.Runtime.CompilerServices.EnumeratorCancellation] CancellationToken token)
+            {
+                for (int i = 0; i < _count; i++)
+                {
+                    token.ThrowIfCancellationRequested();
+                    // yield a simple record
+                    yield return new MeterReadingDto
+                    {
+                        AccountId = i % 100,
+                        MeterReadingDateTime = DateTime.UtcNow,
+                        MeterReadingValue = "12345"
+                    };
+                    await Task.Yield();
+                }
+            }
+        }
+
+        // Fake processor that simulates a small async work (e.g., validation + save)
+        private class FakeMeterReadingProcessor : IMeterReadingProcessor
+        {
+            private readonly int _workMilliseconds;
+            public FakeMeterReadingProcessor(int workMilliseconds) => _workMilliseconds = workMilliseconds;
+            public async Task<Ensek.Metering.Models.Responses.MeterReadingProcessResult> ProcessRecordAsync(MeterReadingDto record, CancellationToken token)
+            {
+                // Simulate CPU/IO-bound work
+                await Task.Delay(_workMilliseconds, token);
+                return new Ensek.Metering.Models.Responses.MeterReadingProcessResult(true);
+            }
+        }
+    }
+}
